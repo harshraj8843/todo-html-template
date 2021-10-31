@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+
+    <title>Todo App</title>
+</head>
+
+<body>
+    <div class="container-fluid">
+
+        <div class="row my-5">
+            <div class="col-6">
+                <button class="btn btn-success disabled" type="button" style="width: 100%;">TO DO</button>
+            </div>
+            <div class="col-6">
+                <button class="btn btn-danger" type="button" style="width: 100%;">DONE</button>
+            </div>
+        </div>
+
+        <div class="text-center">
+            <h2><u>Add a TODO</u></h2>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <form>
+                    <div class="mb-3">
+                        <label for="name" class="form-label">TODO Name</label>
+                        <input placeholder="Enter name of todo" type="text" class="form-control" id="name"
+                            aria-describedby="nameHelp">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="date" class="form-label">LAST DATE</label>
+                        <input placeholder="Enter the last date to complete" type="date" class="form-control" id="date"
+                            aria-describedby="dateHelp">
+                    </div>
+
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
+            </div>
+        </div>
+
+
+
+
+
+    </div>
+
+
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
