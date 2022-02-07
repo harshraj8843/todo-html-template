@@ -4,9 +4,9 @@
 
 <div align="center">
 
-[![Github Repo Size](https://img.shields.io/github/repo-size/novicexp/todo-html-template)](https://github.com/novicexp/todo-html-template)
+[![Github Repo Size](https://img.shields.io/github/repo-size/harshraj8843/todo-html-template)](https://github.com/harshraj8843/todo-html-template)
 
-![GitHub Code Size](https://img.shields.io/github/languages/code-size/novicexp/todo-html-template) ![GitHub Line of Code](https://img.shields.io/tokei/lines/github/novicexp/todo-html-template)
+![GitHub Code Size](https://img.shields.io/github/languages/code-size/harshraj8843/todo-html-template) ![GitHub Line of Code](https://img.shields.io/tokei/lines/github/harshraj8843/todo-html-template)
 
 </div>
 
@@ -26,7 +26,7 @@ A simple todo ui template in `html` and `bootstrap`
 
 - clone project
   ```
-  git clone https://github.com/novicexp/todo-html-template
+  git clone https://github.com/harshraj8843/todo-html-template
   ```
   ```
   cd todo-html-template/
